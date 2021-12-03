@@ -66,7 +66,7 @@ Dengan penyiraman yang sudah diupgrade tanggal 27 Summer, seharusnya kamu sudah 
 
 Saya menyarankan untuk tidak membeli banyak *hewan ternak* (sapi dan domba), kumpulkan uang untuk membeli kayu lalu upgrade bangunan terlebih dahulu.
 
-> Di musim ini cukup kumpulkan uang, beli kayu lalu upgrade bangunan. Utamakan untuk membuat Hothouse sebelum Witner tiba.
+Di musim ini cukup **kumpulkan uang, beli kayu lalu upgrade bangunan**. Utamakan untuk membuat Hothouse sebelum Witner tiba.
 
 
 #### WINTER: Musim Untuk Bersantai 
