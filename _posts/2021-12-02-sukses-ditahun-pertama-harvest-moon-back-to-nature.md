@@ -30,7 +30,7 @@ Jangan lupa juga memberi Harvest Goddess, menggali di tambang, dan menebang poho
 Kumpulkan terus uangmu dengan cara membeli dan menaman secara berulang hingga uangmu mencapai **5000G** atau lebih pada saat tanggal 18 nanti.
 Ya, target kita adalah mengumpulkan minimal **5000G** sebelum tanggal 18.
 
-Saat harinya sudah tiba, bawa keranjangmu ke Lapangan Mawar dan pakai semua uang yang kamu miliki untuk taruhan.
+Saat harinya sudah tiba, bawa keranjangmu ke **Lapangan Mawar** dan pakai semua uang yang kamu miliki untuk taruhan.
 Biasanya kuda yang menang adalah kuda dengan **ODS** kedua dari yang terkecil, tapi sebaiknya lakukan save state terlebih dahulu.
 
 Saat balapan selesai, tukarkan semua mendali yang kamu dapat dengan **Anting (Earrings)**.
@@ -58,13 +58,13 @@ Tanggal 20 atau 21 Summer, belilah kayu dan upgrade kandang ayam milikmu. Lalu t
 Musim gugur adalah musim paling menguntungkan, gunakan waktumu dengan baik.
 Banyak tanaman yang bisa dijual di gunung. Seingat saya, dalam sehari saya bisa dapat **2000G**.
 
-Saya menyarankan kamu untuk menanam 15 kantung, 10 kantung bibit Sweet Potato, 5 kantung sisanya bibit Wortel (15 sweet potato juga boleh, terserah kamu).
+Belilah 10 kantung bibit Sweet Potato, dan 5 kantung bibit Wortel (15 Sweet Potato juga boleh, terserah kamu).
 
-Dengan penyiraman yang sudah *diupgrade* tanggal 27 Summer, seharusnya kamu sudah bisa menyiram semua tanaman sebelum  jam 01:00PM, yang artinya masih ada banyak waktu yang bisa digunakan untuk mengambil sesuatu di gunung.
+Dengan penyiraman yang sudah diupgrade tanggal 27 Summer, seharusnya kamu sudah bisa menyiram semua tanaman sebelum  jam 01:00PM, yang artinya masih ada banyak waktu yang bisa digunakan untuk mengambil sesuatu di gunung.
 
-**Tips**
-* Suruh kurcaci untuk membantu kamu menyiram tanaman, sehari sebelum kamu memanen.
-* Jika kamu bekerja part time di *Aja Winery*, jangan lupa meminta bantuan kurcaci untuk membantumu menyiram tanaman.
+> Tips:
+> * Suruh kurcaci untuk membantu kamu menyiram tanaman, sehari sebelum kamu memanen.
+> * Jika kamu bekerja part time di *Aja Winery*, jangan lupa meminta bantuan kurcaci untuk membantumu menyiram tanaman.
 
 Saya menyarankan untuk tidak membeli banyak *hewan ternak* (sapi dan domba), kumpulkan uang untuk membeli kayu lalu upgrade bangunan terlebih dahulu.
 
