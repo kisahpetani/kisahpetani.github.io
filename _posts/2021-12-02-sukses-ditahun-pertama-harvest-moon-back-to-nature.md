@@ -1,23 +1,22 @@
 ---
 layout: post
-title:  "Trik Cepat Kaya di Harvest Moon Back to Nature"
+title:  "Sukses Ditahun Pertama: Harvest Moon Back to Nature"
 author: Nan
 categories: [ Harvest Moon ]
-image: assets/images/rekap-penjualan.png
+image: assets/images/hm-btn.png
 ---
 
 Saya akan memfokuskan ke pembangunan di tahun pertama, untuk hewan ternak masih bisa di tahun kedua.
 Rom yang saya gunakan adalah <u>rom versi revisi</u>, ya. Karena selain beberapa bug yang telah diperbaiki, area kebun di rom juga sudah rapih. Kita tak perlu repot menghancurkan tunggul ataupun batu besar yang menghalangi.
 
 
-## SPRING 
-### Mendapatkan 50.000G 
+### Spring: Mendapatkan 50.000G   
 
-Jangan pernah membeli barang yang tidak berguna di awal permainan, fokus saja ke kebun. Beli 4 kantung bibit turnip di awal permainan dan dihari berikutnya beli 5 sampai 10 kantung setiap 5 hari sekali.
+Jangan pernah membeli barang yang tidak berguna di awal permainan, fokus saja ke kebun. Beli 4 kantung bibit Turnip di awal permainan dan dihari berikutnya beli 5 sampai 10 kantung setiap 5 hari sekali.
 
-Pungut juga Bamboo Shot dan Green Grass di gunung, yang kalau diakumulasikan sampai tanggal 18, kamu akan mendapatkan tambahan uang sebanyak 3750.
+Pungut juga *Bamboo Shot* dan *Blue Grass* di gunung, kamu akan mendapatkan tambahan uang sebanyak **3750G** sampai tanggal 18 nanti.
 
-> Disarankan membeli sekantung bibit timun, karena kita butuh beberapa Power Berry untuk dua musim kedepan.
+> Disarankan membeli sekantung bibit Timun, karena kita butuh beberapa *Power Berry* untuk dua musim kedepan.
 
 Atur waktu juga untuk berbicara dengan warga dan kurcaci minimal 3 hari sekali.
 Karena di game ini <u>tidak ada batasan untuk memberikan hadiah</u>, jadi <u>berikan dua hadiah atau lebih </u> kepada mereka yang berulang tahun (disarankan untuk membungkusnya).
@@ -28,8 +27,7 @@ Semakin banyak kamu memberikan hadiah yang mereka sukai di hari ulang tahunnya, 
 Jangan lupa juga memberi Harvest Goddess, menggali di tambang, dan menebang pohon untuk mendapatkan Power Berry tambahan.
 4 Power Berry sudah lebih dari cukup untuk bermain sampai Summer.
 
-Kumpulkan terus uangmu sampai tanggal 18.
-Jika kamu hanya membeli Keranjang dan bibit saja, seharusnya uang kamu sudah mencapai **5000G** lebih.
+Kumpulkan terus uangmu dengan cara membeli dan menaman secara berulang hingga uangmu mencapai **5000G** atau lebih pada saat tanggal 18 nanti.
 
 Bawa keranjangmu ke Lapangan Mawar dan pakai semua uang yang kamu miliki untuk taruhan.
 Biasanya kuda yang menang adalah kuda dengan **ODS** kedua dari yang terkecil, tapi sebaiknya lakukan save state terlebih dahulu.
