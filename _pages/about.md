@@ -15,7 +15,7 @@ Ya, <u>Petani</u> yang saya maksud di sini adalah tokoh utama di game <b>Harvest
 <br/>
 <br/>
 <div class="section-title">
-<h3><span>Tentang Kisah Petani</span></h3>
+<h3><span>Admin Kisah Petani</span></h3>
 </div>
 Perkenalkan, Saya Nandang. Saya sangat suka sekali menulis sejak tahun 2016 hingga sekarang.
 <br/>
