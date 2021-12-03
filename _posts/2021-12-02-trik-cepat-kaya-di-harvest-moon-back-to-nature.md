@@ -3,7 +3,7 @@ layout: post
 title:  "Trik Cepat Kaya di Harvest Moon Back to Nature"
 author: Nan
 categories: [ Harvest Moon ]
-image: assets/images/Rekap-penjualan.png
+image: assets/images/rekap-penjualan.png
 ---
 
 Saya akan memfokuskan ke pembangunan di tahun pertama, untuk hewan ternak masih bisa di tahun kedua.
