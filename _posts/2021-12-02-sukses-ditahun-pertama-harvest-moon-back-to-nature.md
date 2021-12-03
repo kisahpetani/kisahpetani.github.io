@@ -10,7 +10,7 @@ Saya akan memfokuskan ke pembangunan di tahun pertama, untuk hewan ternak masih 
 Rom yang saya gunakan adalah <u>rom versi revisi</u>, ya. Karena selain beberapa bug yang telah diperbaiki, area kebun di rom juga sudah rapih. Kita tak perlu repot menghancurkan tunggul ataupun batu besar yang menghalangi.
 <br/>
 <br/>
-### SPRING: Mendapatkan 50.000G   
+#### SPRING: Mendapatkan 50.000G   
 
 Jangan pernah membeli barang yang tidak berguna di awal permainan, fokus saja ke kebun. Beli 4 kantung bibit Turnip di awal permainan dan dihari berikutnya beli 5 sampai 10 kantung setiap 5 hari sekali.
 
@@ -43,7 +43,7 @@ Tanggal 30 Spring, beli bibit Nanas di Won sebanyak 10 kantung. Kalau memang mas
 Sebenarnya ditanam tanggal 30 Spring atau 1 Summer pun Nanas akan tetap dipanen maksimal 2x saja, tapi lebih cepat lebih baik.
 <br/>
 <br/>
-### SUMMER: Mendapatkan 100.000G
+#### SUMMER: Mendapatkan 100.000G
 
 Selain menanam 10 kantung bibit Nanas, saya sarankan untuk menanam Tomat atau Jagung (dua duanya juga boleh) sebanyak 5 kantung dan bibit *Pink Cat* 1 kantung.
 
@@ -54,7 +54,7 @@ Jika kamu menanam 10 kantung Nanas, artinya ada 80 petak yang harus disiram dan 
 Tanggal 20 atau 21 Summer, belilah kayu dan upgrade kandang ayam milikmu. Lalu tanggal 27 Summer, upgrade penyiraman menjadi level Max ke saibara.
 
 
-### FALL: Mendapatkan 140.000G 
+#### FALL: Mendapatkan 140.000G 
 Musim gugur adalah musim paling menguntungkan, gunakan waktumu dengan baik.
 Banyak tanaman yang bisa dijual di gunung. Seingat saya, dalam sehari saya bisa dapat **2000G**.
 
@@ -62,16 +62,14 @@ Belilah 10 kantung bibit Sweet Potato, dan 5 kantung bibit Wortel (15 Sweet Pota
 
 Dengan penyiraman yang sudah diupgrade tanggal 27 Summer, seharusnya kamu sudah bisa menyiram semua tanaman sebelum  jam 01:00PM, yang artinya masih ada banyak waktu yang bisa digunakan untuk mengambil sesuatu di gunung.
 
-> Tips:
-> * Suruh kurcaci untuk membantu kamu menyiram tanaman, sehari sebelum kamu memanen.
-> * Jika kamu bekerja part time di *Aja Winery*, jangan lupa meminta bantuan kurcaci untuk membantumu menyiram tanaman.
+> Tips: Suruh kurcaci untuk membantu kamu menyiram tanaman, sehari sebelum kamu memanen dan saat kamu sedang bekerja part time di *Aja Winery*.
 
 Saya menyarankan untuk tidak membeli banyak *hewan ternak* (sapi dan domba), kumpulkan uang untuk membeli kayu lalu upgrade bangunan terlebih dahulu.
 
 > Di musim ini cukup kumpulkan uang, beli kayu lalu upgrade bangunan. Utamakan untuk membuat Hothouse sebelum Witner tiba.
 
 
-### WINTER: Musim Untuk Bersantai 
+#### WINTER: Musim Untuk Bersantai 
 Di musim ini, tidak ada yang bisa banyak dilakukan selain menambang. Jika kamu sudah memiliki *HotHouse*, tanamlah bibit Nanas sebanyak 4 kantung.
 
 Kumpulkan terus uangmu untuk membeli *Mayonaise Maker,* Membeli hewan Ternak lalu membeli *Cheese Maker,* dan *Yanr Maker*.
