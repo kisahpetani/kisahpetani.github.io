@@ -10,7 +10,7 @@ Saya akan memfokuskan ke pembangunan di tahun pertama, untuk hewan ternak masih 
 Rom yang saya gunakan adalah <u>rom versi revisi</u>, ya. Karena selain beberapa bug yang telah diperbaiki, area kebun di rom juga sudah rapih. Kita tak perlu repot menghancurkan tunggul ataupun batu besar yang menghalangi.
 
 
-### Spring: Mendapatkan 50.000G   
+### SPRING: Mendapatkan 50.000G   
 
 Jangan pernah membeli barang yang tidak berguna di awal permainan, fokus saja ke kebun. Beli 4 kantung bibit Turnip di awal permainan dan dihari berikutnya beli 5 sampai 10 kantung setiap 5 hari sekali.
 
@@ -42,8 +42,7 @@ Karena masih ada waktu, disarankan membeli bibit turnip lagi. Saya tidak akan me
 Tanggal 30 Spring, beli bibit Nanas di Won sebanyak 10 kantung. Kalau memang masih ada waktu, langsung tanam dan siram saja di tanggal 30 Spring.
 Sebenarnya ditanam tanggal 30 Spring atau 1 Summer pun Nanas akan tetap dipanen maksimal 2x saja, tapi lebih cepat lebih baik.
 
-## SUMMER
-### Mendapatkan 100.000G
+### SUMMER: Mendapatkan 100.000G
 
 Selain menanam 10 kantung bibit Nanas, saya sarankan untuk menanam Tomat atau Jagung (dua duanya juga boleh) sebanyak 5 kantung dan bibit bunga 1 kantung.
 
@@ -54,8 +53,7 @@ Jika kamu menanam 10 kantung Nanas, artinya ada 80 petak yang harus disiram dan 
 Tanggal 20 atau 21 Summer, belilah kayu dan upgrade kandang ayam milikmu. Lalu tanggal 27 Summer, upgrade penyiraman menjadi level Max ke saibara.
 
 
-## FALL 
-### Mendapatkan 140.000G 
+### FALL: Mendapatkan 140.000G 
 Musim gugur adalah musim paling menguntungkan, gunakan waktumu dengan baik.
 Banyak tanaman yang bisa dijual di gunung. Seingat saya, dalam sehari saya bisa dapat **2000G**.
 
@@ -72,8 +70,7 @@ Saya menyarankan untuk tidak membeli banyak banyak *hewan ternak* (sapi dan domb
 > Di musim ini cukup kumpulkan uang, beli kayu lalu upgrade bangunan. Saya jamin kalo rajin Winter nanti bisa punya hothouse.
 
 
-## WINTER 
-### Musim Untuk Bersantai 
+### WINTER: Musim Untuk Bersantai 
 Di musim ini, tidak ada yang bisa banyak dilakukan. Karena itu, kamu bisa sedikit bersantai.
 Saya tidak akan memberi saran apapun dimusim ini karena semua bangunan sudah full upgrade.
 
