@@ -20,7 +20,7 @@ Pungut juga *Bamboo Shot* dan *Blue Grass* di gunung, kamu akan mendapatkan tamb
 > Disarankan membeli sekantung bibit Timun, karena kita butuh beberapa *Power Berry* untuk dua musim kedepan.
 
 Atur waktu juga untuk berbicara dengan warga dan kurcaci minimal 3 hari sekali.
-Karena di game ini <u>tidak ada batasan untuk memberikan hadiah</u>, jadi <u>berikan dua hadiah atau lebih </u> kepada mereka yang berulang tahun (disarankan untuk membungkusnya).
+Karena di game ini <u>tidak ada batasan untuk memberikan hadiah</u>, jadi <u>berikan dua hadiah atau lebih </u> kepada mereka yang berulang tahun (disarankan untuk membungkusnya).  
 Semakin banyak kamu memberikan hadiah yang mereka sukai di hari ulang tahunnya, maka semakin besar pula _affection points_ yang akan kamu dapatkan.
 
 > tips: Menyiram tanaman bisa dilakukan pagi dan malam, sore nya bisa kamu pakai untuk berkeliling desa.
@@ -51,8 +51,8 @@ Selain menanam 10 kantung bibit *Nanas*, 5 kantung *Jagung* dan bibit *Pink Cat*
 Dimusim kedua ini cukup lakukan kegiatan seperti biasa, pada pagi hari menyiram tanaman dan ketika sudah jam 12 siang, berkeliling desa sebentar lalu mulai menyiram tanaman lagi (kalau belum selesai).
 
 Saat panen Nanas pertama tanggal 20 atau 21 Summer, gunakan uangmu untuk membeli kayu dan upgrade kandang ayam milikmu. Lalu tanggal 27 Summer, upgrade penyiraman menjadi level Max ke saibara.
-
-
+<br/>
+<br/>
 #### FALL: Mendapatkan 140.000G 
 Musim gugur adalah musim paling menguntungkan, gunakan waktumu dengan baik.
 Banyak tanaman yang bisa dijual di gunung. Seingat saya, dalam sehari saya bisa dapat **2000G**.
@@ -66,13 +66,21 @@ Dengan penyiraman yang sudah diupgrade tanggal 27 Summer, seharusnya kamu sudah 
 Saya menyarankan untuk tidak membeli banyak *hewan ternak* (sapi dan domba), kumpulkan uang untuk membeli kayu lalu upgrade bangunan terlebih dahulu.
 
 Di musim ini cukup **kumpulkan uang, beli kayu lalu upgrade bangunan**. Utamakan untuk membuat Hothouse sebelum Witner tiba.
-
-
+<br/>
+<br/>
 #### WINTER: Musim Untuk Bersantai 
 Di musim ini, tidak ada yang bisa banyak dilakukan selain menambang. Jika kamu sudah memiliki *HotHouse*, tanamlah bibit Nanas sebanyak 4 kantung.
 
-Kumpulkan terus uangmu untuk membeli *Mayonaise Maker,* Membeli hewan Ternak lalu membeli *Cheese Maker,* dan *Yanr Maker*.
+Kumpulkan terus uangmu untuk membeli *Mayonaise Maker,* Membeli hewan Ternak lalu membeli *Cheese Maker,* dan *Yarn Maker*.
 
 Jika kamu belum memiliki pancingan, cobalah temui greng di dermaga.
 
 Jangan lupa juga untuk melihat ramalan cuaca setiap hari atau menyimpan permainan sebelum tidur. Ini akan sangat membantu kamu agar tidak kehilangan hothouse.
+<br/>
+<br/>
+### Penghasilan selama setahun
+![](https://kisahpetani.github.io/assets/images/rekap-penjualan.png "Rekap Penjualan")
+
+Ini adalah penghasilan saya selama setahun bermain menggunakan trik yang saya tulis diatas.
+
+Jika kamu memiliki trik lain, jangan ragu untuk menulisnya di komentar.
