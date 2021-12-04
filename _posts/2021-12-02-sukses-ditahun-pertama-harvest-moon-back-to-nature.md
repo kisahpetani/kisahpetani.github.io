@@ -20,7 +20,7 @@ Pungut juga *Bamboo Shot* dan *Blue Grass* di gunung, kamu akan mendapatkan tamb
 > Disarankan membeli sekantung bibit Timun, karena kita butuh beberapa *Power Berry* untuk dua musim kedepan.
 
 Atur waktu juga untuk berbicara dengan warga dan kurcaci minimal 3 hari sekali.
-Karena di game ini <u>tidak ada batasan untuk memberikan hadiah</u>, jadi <u>berikan dua hadiah atau lebih </u> kepada mereka yang berulang tahun (disarankan untuk membungkusnya).  
+Karena di game ini <u>tidak ada batasan untuk memberikan hadiah</u>, jadi <u>berikan dua hadiah atau lebih</u> kepada mereka yang berulang tahun (disarankan untuk membungkusnya).
 Semakin banyak kamu memberikan hadiah yang mereka sukai di hari ulang tahunnya, maka semakin besar pula _affection points_ yang akan kamu dapatkan.
 
 > tips: Menyiram tanaman bisa dilakukan pagi dan malam, sore nya bisa kamu pakai untuk berkeliling desa.
