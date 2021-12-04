@@ -12,7 +12,8 @@ Rom yang saya gunakan adalah <u>rom versi revisi</u>, ya. Karena selain beberapa
 <br/>
 #### SPRING: Mendapatkan 50.000G   
 
-Jangan pernah membeli barang yang tidak berguna di awal permainan, fokus saja ke kebun. Beli 4 kantung bibit Turnip di awal permainan dan dihari berikutnya beli 5 sampai 10 kantung setiap 5 hari sekali.
+Jangan pernah membeli barang yang tidak berguna di awal permainan, hal yang paling berguna di sini adalah **Bibit** dan **Keranjang**. 
+Jadi, cukup beli 4 kantung bibit Turnip di awal permainan dan dihari berikutnya beli 5 sampai 10 kantung setiap 5 hari sekali. Kumpulkan terus uangmu hingga mencapai 5000G untuk membeli **Keranjang**.
 
 Pungut juga *Bamboo Shot* dan *Blue Grass* di gunung, kamu akan mendapatkan tambahan uang sebanyak **3750G** sampai tanggal 18 nanti.
 
@@ -45,13 +46,11 @@ Sebenarnya ditanam tanggal 30 Spring atau 1 Summer pun Nanas akan tetap dipanen 
 <br/>
 #### SUMMER: Mendapatkan 100.000G
 
-Selain menanam 10 kantung bibit Nanas, saya sarankan untuk menanam Tomat atau Jagung (dua duanya juga boleh) sebanyak 5 kantung dan bibit *Pink Cat* 1 kantung.
+Selain menanam 10 kantung bibit *Nanas*, 5 kantung *Jagung* dan bibit *Pink Cat* 1 kantung.
 
-Lakukan aktifitas seperti biasa, pada pagi hari menyiram tanaman dan ketika sudah jam 12 siang, berkeliling desa sebentar lalu mulai menyiram tanaman lagi (kalau belum selesai).
+Dimusim kedua ini cukup lakukan kegiatan seperti biasa, pada pagi hari menyiram tanaman dan ketika sudah jam 12 siang, berkeliling desa sebentar lalu mulai menyiram tanaman lagi (kalau belum selesai).
 
-Jika kamu menanam 10 kantung Nanas, artinya ada 80 petak yang harus disiram dan dipanen. Jadi, dalam satu musim kamu bisa mendapatkan **80.000G** hanya dengan menanam nanas saja.
-
-Tanggal 20 atau 21 Summer, belilah kayu dan upgrade kandang ayam milikmu. Lalu tanggal 27 Summer, upgrade penyiraman menjadi level Max ke saibara.
+Saat panen Nanas pertama tanggal 20 atau 21 Summer, gunakan uangmu untuk membeli kayu dan upgrade kandang ayam milikmu. Lalu tanggal 27 Summer, upgrade penyiraman menjadi level Max ke saibara.
 
 
 #### FALL: Mendapatkan 140.000G 
