@@ -11,6 +11,6 @@ comments: true
 
 Sesuai dengan tema blog, yang akan saya bahas di sini adalah sesuatu hal yang berkaitan dengan <b>Harvest Moon</b>.
 <br/>
-Ya, <u>Petani</u> yang saya maksud di sini adalah tokoh utama di game <b>Harvest Moon</b>, tapi mungkin bakal curhat juga hehe.
+Ya, <u>Petani</u> yang saya maksud di sini adalah tokoh utama di game <b>Harvest Moon</b>, tapi mungkin bakal saya isi dengan curhatan juga hehe.
 </div>
 </div>
