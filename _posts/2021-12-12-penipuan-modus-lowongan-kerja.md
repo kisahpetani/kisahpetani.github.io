@@ -16,8 +16,9 @@ Selain _lokasi_, masih ada beberapa hal yang janggal dalam email tersebut, mari 
 
 ### Pertama: Email Pengirim
 ![Email Palsu](/assets/images/email-palsu.jpg)  
-Coba perhatikan email pengirim nya deh, di situ tertulis **hrd.recrutment.job@gmail.com**  dan lu tau apa? Itu fake coy! Email PT Mayora yang asli adalah **hrd.recruitment@mayora.co.id** (alamat email lain bisa dilihat di situs resminya <https://www.mayoraindah.co.id/content/Alamat-1>)
-Logikanya; PT Mayora itu perusahaan besar cuy, gak mungkin mereka bikin email pake _Gmail_ atau _Yahoo Mail_. Pasti perusahaan gede kaya gitu punya web mail sendiri (dan terbukti).
+Coba perhatikan email pengirim nya deh, di situ tertulis **hrd.recrutment.job@gmail.com**  dan lu tau apa? Itu fake coy! Email PT Mayora yang asli adalah **hrd.recruitment@mayora.co.id**
+Alamat email lain bisa dilihat di situs resminya <https://www.mayoraindah.co.id/content/Alamat-1>, ya cuy.
+Logikanya gini ... PT Mayora itu perusahaan besar cuy, gak mungkin mereka bikin email pake _Gmail_ atau _Yahoo Mail_. Pasti perusahaan gede kaya gitu punya web mail sendiri (dan terbukti).
 
 ### Kedua: Lokasi
 ![Lokasi Palsu](/assets/images/lokasi-palsu.jpg)  
