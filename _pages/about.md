@@ -11,14 +11,6 @@ comments: true
 
 Sesuai dengan tema blog, yang akan saya bahas di sini adalah sesuatu hal yang berkaitan dengan <b>Harvest Moon</b>.
 <br/>
-Ya, <u>Petani</u> yang saya maksud di sini adalah tokoh utama di game <b>Harvest Moon</b>, hehe.
-<br/>
-<br/>
-<div class="section-title">
-<h3><span>Admin Kisah Petani</span></h3>
-</div>
-Perkenalkan, Saya Nandang. Saya sangat suka sekali menulis sejak tahun 2016 hingga sekarang.
-<br/>
-Untuk saat ini, saya bekerja sebagai <i>Karyawan</i> di salah satu perusahaan.
+Ya, <u>Petani</u> yang saya maksud di sini adalah tokoh utama di game <b>Harvest Moon</b>, tapi mungkin bakal curhat juga hehe.
 </div>
 </div>
