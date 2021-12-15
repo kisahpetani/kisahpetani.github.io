@@ -21,6 +21,8 @@ License: https://www.wowthemes.net/freebies-license/
     padding: 1rem 0rem;
 }
 
+#disqus_thread>iframe[sandbox]{display:none!important}
+
 a {
     color: #00ab6b;
     transition: all 0.2s;
