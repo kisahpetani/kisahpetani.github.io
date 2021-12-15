@@ -54,14 +54,6 @@ paginate_path: /page:num/
 # Other
 markdown: kramdown
 
-#Komentar
-comments:
-	provider : "facebook"
-	facebook:
-		appid : 756630065295142
-		num_posts : # 5 (default)
-		colorscheme : # "light" (default), "dark"
-
 kramdown:
   input: GFM
   syntax_highlighter: rouge
