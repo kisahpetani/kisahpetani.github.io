@@ -13,7 +13,6 @@
 <title>{{ page.title }} | {{site.name}}</title>
 
 {% seo %}
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/id_ID/sdk.js#xfbml=1&version=v13.0&appId=756630065295142&autoLogAppEvents=1" nonce="8ZTSlgY3"></script>
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 
 <link href="{{ site.baseurl }}/assets/css/screen.css" rel="stylesheet">
@@ -34,6 +33,8 @@ ga('create', '{{site.google_analytics}}', 'auto');
 ga('send', 'pageview');
 </script>
 {% endif %}
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/id_ID/sdk.js#xfbml=1&version=v13.0&appId=756630065295142&autoLogAppEvents=1" nonce="8ZTSlgY3"></script>
 
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
 <body class="{{layout}}">
