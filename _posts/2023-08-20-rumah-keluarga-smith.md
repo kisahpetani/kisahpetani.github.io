@@ -3,7 +3,7 @@ layout: post
 title:  "Rumah Keluarga Smith"
 author: Nan
 categories: [ Horror, Mistery ]
-image: assets/images/rumah-keluarga-smith.png
+image: assets/images/rumah-keluarga-smith.jpg
 ---
 Di suatu kota kecil yang terletak di lereng gunung, terdapat sebuah rumah tua yang dikenal dengan sebutan *Haunted House* <i>(Rumah Hantu)</i>. Penduduk setempat menghindari rumah tersebut karena cerita-cerita aneh yang beredar tentangnya. Beberapa orang mengklaim pernah melihat cahaya samar-samar dan suara langkah kaki di dalam rumah pada malam hari, padahal seharusnya tidak ada yang tinggal di sana selama bertahun-tahun.
 <p>
