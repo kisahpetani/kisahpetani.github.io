@@ -4,6 +4,7 @@ title:  "Jejak Misteri: Pabrik Tua"
 author: Nan
 categories: [ Horror, Mistery ]
 image: assets/images/pabrik-tua.jpg
+comments: false
 ---
 Di kota kecil yang sunyi, terdapat sebuah pabrik tua yang sudah ditinggalkan selama bertahun-tahun. Pabrik ini terkenal di kalangan penduduk setempat sebagai tempat yang dianggap angker. Cerita-cerita aneh mengenai pabrik tersebut menjadi percakapan populer di antara warga, hingga akhirnya muncul sebuah organisasi rahasia yang menyelidiki fenomena supernatural.
 
