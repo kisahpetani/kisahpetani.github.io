@@ -4,6 +4,7 @@ title:  "Misteri Hilangnya Kewarasan Pasien Rumah Sakit Jiwa"
 author: Nan
 categories: [ Horror, Mistery ]
 image: assets/images/pasien-sakit-jiwa.jpg
+comments: false
 ---
 
 Di lorong-lorong sunyi Rumah Sakit Jiwa St. Agnes, langkah-langkahku menghantui kesunyian. Sinar matahari senja menyusup masuk melalui jendela besi yang menghasilkan bayangan-bayangan menyeramkan di lantai dingin. Aku Denis, seorang dokter yang telah menghabiskan bertahun-tahun di tempat ini, berusaha memberikan kenyamanan bagi jiwa-jiwa yang retak.
