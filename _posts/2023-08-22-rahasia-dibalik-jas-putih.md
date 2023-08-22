@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Misteri Kematian Pasien Rumah Sakit Jiwa"
+title:  "Rahasia Dibalik Jas Putih"
 author: Nan
 categories: [ Horror, Mistery ]
 image: assets/images/pasien-sakit-jiwa.jpg
