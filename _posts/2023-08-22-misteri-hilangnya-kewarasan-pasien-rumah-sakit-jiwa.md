@@ -50,7 +50,7 @@ Malamnya, Aku kembali menemui Amelia. lorong-lorong Rumah Sakit Jiwa St. Agnes t
 
 Aku mendekati Amelia dengan senyum lembut, mencoba menenangkannya. _"Saya ingin membantu Anda, Amelia,"_ ujarku, suaraku penuh dengan keyakinan palsu. _"Saya punya cara yang mungkin bisa menghilangkan pengaruh ini."_
 
-Tanganku meraih obat di saku, memberikannya pada Amelia. _"Sebelum kita melakukannya, coba minum ini dulu,"_ kata saya dengan suara lembut, sambil memberikan obat padanya. _"Ini adalah obat tambahan yang dapat membuat pikiranmu lebih tenang."_
+Tanganku meraih obat di saku, memberikannya pada Amelia. _"Sebelum kita melakukannya, coba minum ini dulu,"_ ujarku dengan suara lembut, sambil memberikan obat padanya. _"Ini adalah obat tambahan yang dapat membuat pikiranmu lebih tenang."_
 
 Amelia meraih obat itu dengan tatapan cemas, ragu-ragu sejenak sebelum akhirnya menelannya. Tatapan yang ia berikan mengandung harapan, dan aku melihat betapa ia merindukan bantuan. Namun, keinginannya untuk sembuh juga menjadi kelemahan yang dapat aku manfaatkan.
 
