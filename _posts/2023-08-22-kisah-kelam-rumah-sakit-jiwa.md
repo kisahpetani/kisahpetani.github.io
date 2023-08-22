@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "Misteri Hilangnya Kewarasan Pasien Rumah Sakit Jiwa"
+title:  "Misteri Kematian Pasien Rumah Sakit Jiwa"
 author: Nan
 categories: [ Horror, Mistery ]
 image: assets/images/pasien-sakit-jiwa.jpg
-comments: false
 ---
 
 Di lorong-lorong sunyi Rumah Sakit Jiwa St. Agnes, langkah-langkahku menghantui kesunyian. Sinar matahari senja menyusup masuk melalui jendela besi yang menghasilkan bayangan-bayangan menyeramkan di lantai dingin. Aku Denis, seorang dokter yang telah menghabiskan bertahun-tahun di tempat ini, berusaha memberikan kenyamanan bagi jiwa-jiwa yang retak.
@@ -49,13 +48,13 @@ Seketika itu, kebenaran tampak menggelayut di antara kata-kata Amelia. Petunjuk-
 
 Malamnya, Aku kembali menemui Amelia. lorong-lorong Rumah Sakit Jiwa St. Agnes terlihat gelap dan sepi. Pelan-pelan, aku melangkah menuju ruangan Amelia, langkahku hampir tak terdengar. Ruangan itu hening, hanya terangkat oleh napas terengah-engah Amelia yang duduk sendirian di tempat tidurnya. Aku tahu bahwa sudah saatnya untuk menggerakkan benang-benang permainan yang telah aku rancang.
 
-Aku mendekati Amelia dengan senyum lembut, mencoba menenangkannya. _"Saya ingin membantu Anda, Amelia,"_ ujarku, suaraku penuh dengan keyakinan palsu. _"Saya punya cara yang mungkin bisa menghilangkan pengaruh ini."_
+Aku mendekati Amelia dengan senyum lembut, mencoba menenangkannya. _"Saya ingin membantu Anda, Amelia,"_ ujarku, suaraku penuh dengan keyakinan. _"Saya punya cara yang mungkin bisa menghilangkan pengaruh ini."_
 
-Tanganku meraih obat di saku, memberikannya pada Amelia. _"Sebelum kita melakukannya, coba minum ini dulu,"_ ujarku dengan suara lembut, sambil memberikan obat padanya. _"Ini adalah obat tambahan yang dapat membuat pikiranmu lebih tenang."_
+Tanganku meraih obat di saku, memberikannya pada Amelia. _"Sebelum kita melakukannya, coba minum ini dulu,"_ kata saya dengan suara lembut, sambil memberikan obat padanya. _"Ini adalah obat tambahan yang dapat membuat pikiranmu lebih tenang."_
 
 Amelia meraih obat itu dengan tatapan cemas, ragu-ragu sejenak sebelum akhirnya menelannya. Tatapan yang ia berikan mengandung harapan, dan aku melihat betapa ia merindukan bantuan. Namun, keinginannya untuk sembuh juga menjadi kelemahan yang dapat aku manfaatkan.
 
-Ketika obat itu mulai bekerja, aku mengamati dengan penuh perhitungan. Amelia mulai merasa lelah, matanya perlahan-lahan tertutup. Dan di saat itulah aku mulai memakai peralatan yang telah aku siapkan sebelumnya. Menghapus semua barang dan benda yang telah aku pegang dengan selembar kain, walau aku telah menggunakan sarung tangan, tapi aku ingin tetap memastikan semuanya aman.
+Ketika obat itu mulai bekerja, aku mengamati dengan penuh perhitungan. Amelia mulai merasa lelah, matanya perlahan-lahan tertutup. Dan di saat itulah aku mulai memakai peralatan yang telah aku siapkan sebelumnya. Menghapus semua barang dan benda yang telah aku pegang dengan selembar kain.
 
 Setelah melaksanakan rencana dengan Amelia, aku kembali pulang dengan perasaan campur aduk. Dalam ketenangan ruangan kerjaku, aku merenungkan setiap langkah yang telah kulakukan. Aku pergi ke ruangan rahasia, mencoret satu foto dengan spidol berwarna merah. Aku harap ini yang terakhir.
 
@@ -63,7 +62,7 @@ Keesokan harinya, matahari muncul di cakrawala dengan sinar yang cerah. Aku mera
 
 Namun, panggilan telepon pagi itu membawa berita yang membuat detak jantungku melonjak. _"Dokter,"_ suara perawat terdengar serak di seberang sana, _"Saya ingin memberitahumu bahwa pasienmu, Amelia, meninggal semalam. Sepertinya dia keracunan makanan."_ 
 
-Setelah mendengar berita melalui telepon, aku kaget. _"Apa? Amelia meninggal?"_ suaraku terdengar gemetar, seolah-olah aku terkejut. _"Saya akan segera datang ke sana."_
+Setelah mendengar berita melalui telepon, aku kaget. _"Apa? Amelia meninggal?"_ suaraku terdengar gemetar, _"Saya akan segera datang ke sana."_
 
 Tatkala aku menutup telepon dengan santai, aku pun menikmati seteguk kopi yang telah kuseduh sebelum akhirnya berangkat. 
 
